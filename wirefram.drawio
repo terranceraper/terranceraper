@@ -1,0 +1,133 @@
+<mxfile host="079d261d-eeb7-45e4-85d1-2a656ace5987" modified="2020-07-21T21:18:18.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.1 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="rb__t39F1rtOIrjARpbX" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="1116" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="95" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="T" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="-130" y="340" width="1080" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="420" y="110" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="9">
+                    <mxGeometry y="20" width="160" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="9">
+                    <mxGeometry width="160" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="9">
+                    <mxGeometry y="40" width="160" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="YV Logo" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="120" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Headline/Title of donation page" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="200" width="380" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;p&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px&quot;&gt;Short copy about how your donation impacts&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px&quot;&gt;the life, program, organization.&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="260" width="380" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="340" width="370" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Donate Options&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="420" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="320" width="150" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="One time donation" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="20">
+                    <mxGeometry width="150" height="12.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Weekly donation" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="20">
+                    <mxGeometry y="12.5" width="150" height="12.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Monthly donation" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="20">
+                    <mxGeometry y="25" width="150" height="12.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Yearly donation" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="20">
+                    <mxGeometry y="37.5" width="150" height="12.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="$50" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="460" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="$25" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="460" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="$75" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="378.5" y="460" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="390" as="sourcePoint"/>
+                        <mxPoint x="210" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="$100" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="460" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Custom" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="460" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;h3&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Contact Info&lt;/font&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="520" width="380" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="First, Last Name" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="570" width="360" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Email Address" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="600" width="360" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Phone Number" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="630" width="360" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;h3&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Payment info&lt;/font&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="657" width="380" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Credit Card Number" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="710" width="360" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Name on card - First, Last" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="740" width="360" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Billing Address" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="770" width="360" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;DONATE TODAY&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="244" y="830" width="340" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="244" y="920" width="26" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="910" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Sign up for monthly newsletter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="920" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Share&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="980" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="1030" width="52.4" height="52.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.twitter;fillColor=#49EAF7;gradientColor=#137BD0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="310.2" y="1030" width="52.4" height="52.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.linkedin;fillColor=#0095DB;gradientColor=#006391;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="1030" width="52.4" height="52.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.instagram;gradientColor=#DFDEDE;strokeColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="431.2" y="1030" width="52.4" height="52.4" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.mail2;strokeColor=#999999;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="1030" width="50" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
